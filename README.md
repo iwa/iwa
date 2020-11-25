@@ -24,6 +24,6 @@ I'm iwa, a french boi🥖
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 
-### 📊 gitHub stats
+### 📊 github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iwa&show_icons=true" alt="iwa" />
