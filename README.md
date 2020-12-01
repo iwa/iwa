@@ -4,6 +4,7 @@
 I'm iwa, a french boi🥖
 
 - 🦜 Author of [Kwako](https://kwako.iwa.sh)
+- 📚 Student in Software Development
 - ⌨️ Mostly coding in TS/JS
 - 💛 In love with lines of code
 - 🇯🇵 Loving Animes & Mangas
