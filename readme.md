@@ -15,8 +15,8 @@ I'm iwa, a french boi🥖
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Chromium" src="https://img.shields.io/badge/-Chromium-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="Chromium" src="https://img.shields.io/badge/-Chromium-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
