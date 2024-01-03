@@ -1,20 +1,19 @@
-
-# Heya <img src="https://cdn.discordapp.com/emojis/750984063510249472.png" width="25px">
+# Hi 👋 I'm iwa
 <img align='right' src="https://avatars2.githubusercontent.com/u/19956672?s=460&u=a139c3a0107aef1cc9cf204eb1d10ad6e1737efc" width="230" style="max-width: 50%">
 
-I'm iwa, a french boi🥖
-
-- 📚 Student in Software Development
+- 📚 Apprentice Engineer in Software Dev
+- 🌍 I'm based in Paris
 - ⌨️ Mostly coding in TS/JS
-- 💛 In love with lines of code
+- 👨‍💻 I Self-host as a hobby
 - 🇯🇵 Loving Animes & Mangas
+- 🧠 I'm currently learning Big Data, Machine Learning & AI!
 - 💬 Pronouns: `he/him`
 
 <hr />
 
-## 👨🏽‍💻 current setup
+## 👨🏽‍💻 Current setup
 
-### computer
+### Computer
 <p style="vertical-align: middle;">
   <img alt="Apple" src="https://img.shields.io/badge/-Apple-101010?style=for-the-badge&logo=apple&logoColor=white" />
   <b>macbook pro 13" m1</b>
@@ -23,9 +22,9 @@ I'm iwa, a french boi🥖
 - 512Gb SSD
 - 16Gb RAM
 
-### server
+### Server
 <p style="vertical-align: middle;">
-  <img alt="Pulseheberg" src="https://img.shields.io/badge/-Pulseheberg-7540d6?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img alt="Homelab" src="https://img.shields.io/badge/-Homelab-7540d6?style=for-the-badge&logo=serverless&logoColor=white" />
   <b>dedicated server</b>
 </p>
 
@@ -37,7 +36,7 @@ I'm iwa, a french boi🥖
 - portainer
 - ufw
 
-## 👨🏽‍💻 code things i like
+## 👨🏽‍💻 skills and techd i know
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
@@ -70,10 +69,8 @@ I'm iwa, a french boi🥖
   <img alt="Apple" src="https://img.shields.io/badge/-Apple-101010?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-## 👨🏽‍💻 others techs i know
-
 <hr />
 
 ### 📊 github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iwa&show_icons=true" alt="iwa" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iwa&show_icons=true&hide=stars,contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="iwa's GitHub stats" />
