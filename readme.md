@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://cdn.iwa.sh/img/gh/code-hello.png" style="width:75%;" />
-</div>
+<img src="https://cdn.iwa.sh/img/gh/code-hello.webp" />
 
 <img align='right' src="https://avatars2.githubusercontent.com/u/19956672?s=460&u=a139c3a0107aef1cc9cf204eb1d10ad6e1737efc" width="230" style="max-width: 50%">
 
