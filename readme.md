@@ -12,24 +12,9 @@
 
 ---
 
-## 👨🏽‍💻 Current setup
-
-### Computer
-<p style="vertical-align: middle;">
-  <img alt="Apple" src="https://img.shields.io/badge/-Apple-101010?style=for-the-badge&logo=apple&logoColor=white" />
-  <b>macbook pro 13" m1</b>
-</p>
-
-- 512Gb SSD
-- 16Gb RAM
-
-### Server
-
-[Check-out my wiki!](https://wiki.iwa.sh/#homelab)
-
 ## 🔥 skills and tech
 
-#### loved!
+#### 💗 loved!
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Docker Compose" src="https://img.shields.io/badge/-Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -97,3 +82,18 @@
 ### 📊 github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iwa&show_icons=true&hide=stars,contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="iwa's GitHub stats" />
+
+### 👨🏽‍💻 Current setup
+
+#### Computer
+<p style="vertical-align: middle;">
+  <img alt="Apple" src="https://img.shields.io/badge/-Apple-101010?style=for-the-badge&logo=apple&logoColor=white" />
+  <b>macbook pro 13" m1</b>
+</p>
+
+- 512Gb SSD
+- 16Gb RAM
+
+#### Server
+
+[Check-out my wiki!](https://wiki.iwa.sh/#homelab)
