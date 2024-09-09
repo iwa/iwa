@@ -10,7 +10,7 @@
 - 🧠 I'm currently learning Big Data, Machine Learning & AI!
 - 💬 Pronouns: `he/him`
 
-<hr />
+---
 
 ## 👨🏽‍💻 Current setup
 
@@ -27,7 +27,7 @@
 
 [Check-out my wiki!](https://wiki.iwa.sh/#homelab)
 
-## 👨🏽‍💻 skills and tech
+## 🔥 skills and tech
 
 #### loved!
 <p>
@@ -71,7 +71,28 @@
   <img alt="Dashlane" src="https://img.shields.io/badge/-Dashlane-0E353D?style=for-the-badge&logo=dashlane&logoColor=white" />
 </p>
 
-<hr />
+## 💡 noteworthy projects
+
+- [my portfolio](https://github.com/iwa/portfolio)
+- [my wiki](https://github.com/iwa/wiki), my personal sort of blog where I share what I do on my homelab
+- [Kwako](https://github.com/iwa/Kwako), my biggest project so far, public general-purpose Discord bot
+- [Q-Bot](https://github.com/iwa/Q-Bot), roots of Kwako, Discord bot made for the artist Qumu
+- GymBot, Twitch chatbot for the streamer [gymnast86](https://www.twitch.tv/gymnast86)
+- [nomic](https://github.com/iwa/nomic), a Discord bot to help people who can't talk
+- [idcbyt](https://github.com/iwa/idcbyt), old Discord bot to play videos from Youtube in voice channels. made to protest against the shutdown of the major music discord bots at that time.
+
+#### 🙏🏻 contributed in these open-source projects
+
+- [mcsleepingserverstarter](https://github.com/vincss/mcsleepingserverstarter)
+- [monkeytype](https://github.com/monkeytypegame/monkeytype)
+- [SkinPeek](https://github.com/giorgi-o/SkinPeek)
+- [Glance](https://github.com/glanceapp/glance)
+- [Impostor](https://github.com/Impostor/Impostor)
+- [TheForgottenRoles](https://github.com/TheForgottenOrganization/TheForgottenRoles)
+- [Vencord](https://github.com/Vendicated/Vencord) & [Vencloud](https://github.com/Vencord/Vencloud)
+- [Yellari-Bot](https://github.com/Ragmoa/Yellari-Bot)
+
+---
 
 ### 📊 github stats
 
