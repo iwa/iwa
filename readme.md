@@ -7,7 +7,7 @@
 - ⌨️ TypeScript & Go Enjoyer
 - 👨‍💻 I Self-host and run a Homelab as a hobby
 - 🇯🇵 Loving Animes & Mangas
-- 🧠 I'm currently learning Big Data, Machine Learning & AI!
+- 🧠 I'm currently learning Automation of my Homelab with Ansible & Terraform!
 - 💬 Pronouns: `he/him`
 
 ---
