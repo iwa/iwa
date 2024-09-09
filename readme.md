@@ -5,7 +5,7 @@
 - 📚 Apprentice Engineer in Software Dev
 - 🌍 I'm based in Paris
 - ⌨️ TypeScript & Go Enjoyer
-- 👨‍💻 I Self-host as a hobby
+- 👨‍💻 I Self-host and run a Homelab as a hobby
 - 🇯🇵 Loving Animes & Mangas
 - 🧠 I'm currently learning Big Data, Machine Learning & AI!
 - 💬 Pronouns: `he/him`
