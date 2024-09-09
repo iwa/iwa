@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github.com/user-attachments/assets/b3243581-59d1-4b2f-b856-3c3236ed2493" width="230" style="max-width: 50%">
 
-- 📚 Apprentice Engineer in Software Dev
+- 📚 Software Engineer
 - 🌍 I'm based in Paris
 - ⌨️ TypeScript & Go Enjoyer
 - 👨‍💻 I Self-host and run a Homelab as a hobby
