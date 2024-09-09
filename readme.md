@@ -6,7 +6,7 @@
 - 🌍 I'm based in Paris
 - ⌨️ TypeScript & Go Enjoyer
 - 👨‍💻 I Self-host and run a Homelab as a hobby
-- 🇯🇵 Loving Animes & Mangas
+- 👺 Loving Animes & Mangas
 - 🧠 I'm currently learning Automation of my Homelab with Ansible & Terraform!
 - 💬 Pronouns: `he/him`
 
