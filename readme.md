@@ -1,10 +1,10 @@
 <img src="https://cdn.iwa.sh/img/gh/code-hello.webp" />
 
-<img align='right' src="https://avatars2.githubusercontent.com/u/19956672?s=460&u=a139c3a0107aef1cc9cf204eb1d10ad6e1737efc" width="230" style="max-width: 50%">
+<img align='right' src="https://github.com/user-attachments/assets/b3243581-59d1-4b2f-b856-3c3236ed2493" width="230" style="max-width: 50%">
 
 - 📚 Apprentice Engineer in Software Dev
 - 🌍 I'm based in Paris
-- ⌨️ Mostly coding in TS/JS
+- ⌨️ TypeScript & Go Enjoyer
 - 👨‍💻 I Self-host as a hobby
 - 🇯🇵 Loving Animes & Mangas
 - 🧠 I'm currently learning Big Data, Machine Learning & AI!
