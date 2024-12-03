@@ -66,7 +66,7 @@
 - [nomic](https://github.com/iwa/nomic), a Discord bot to help people who can't talk
 - [idcbyt](https://github.com/iwa/idcbyt), old Discord bot to play videos from Youtube in voice channels. made to protest against the shutdown of the major music discord bots at that time.
 
-#### 🙏🏻 contributed in these open-source projects
+#### 🙏🏻 contributed to these open-source projects
 
 - [mcsleepingserverstarter](https://github.com/vincss/mcsleepingserverstarter)
 - [monkeytype](https://github.com/monkeytypegame/monkeytype)
