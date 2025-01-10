@@ -58,7 +58,6 @@
 
 ## 💡 noteworthy projects
 
-- [my portfolio](https://github.com/iwa/portfolio)
 - [my wiki](https://github.com/iwa/wiki), my personal sort of blog where I share what I do on my homelab
 - [Kwako](https://github.com/iwa/Kwako), my biggest project so far, public general-purpose Discord bot
 - [Q-Bot](https://github.com/iwa/Q-Bot), roots of Kwako, Discord bot made for the artist Qumu
