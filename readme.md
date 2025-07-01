@@ -1,7 +1,7 @@
 ![banner](assets/banner.png "Banner")
 
 software engineer<br/>
-typescript, swift, go, rust (learning), java, php, html/css/js
+typescript, go, java, php, html/css/js, swift, rust
 
 building projects, self-hosting, always learning
 
